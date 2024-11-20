@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944734555411",
+    "project_id": "chatapp-39a8f",
+    "storage_bucket": "chatapp-39a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944734555411:android:ab7edf0c3614dbbc91dee6",
+        "android_client_info": {
+          "package_name": "com.example.brine_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzKPsKI8gEktosZpa4Hapl1GJY_ZFUlak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
